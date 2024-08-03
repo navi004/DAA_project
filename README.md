@@ -1,10 +1,10 @@
-## Unmess the Mess: Food Waste Reduction with Machine Learning
-Data Exploration & Preparation:
+# Unmess the Mess: Food Waste Reduction with Machine Learning
+# Data Exploration & Preparation:
 
 The code delves into the provided sample data, which includes:
 
-Mess Menu.xlsx: Contains the hostel's food schedule.
-MessSample.xlsx: Provides sample data on food items served over two days (Breakfast and Lunch).
+  * Mess Menu.xlsx: Contains the hostel's food schedule.
+  * MessSample.xlsx: Provides sample data on food items served over two days (Breakfast and Lunch).
 Encoding Sheets (food_id.xlsx, day_encoding.xlsx, time_encoding.xlsx): Encode categorical variables for modeling.
 Explorations involve:
 

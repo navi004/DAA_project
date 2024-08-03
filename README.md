@@ -1,3 +1,4 @@
+##Unmess the Mess: Food Waste Reduction with Machine Learning
 Data Exploration & Preparation:
 
 The code delves into the provided sample data, which includes:
